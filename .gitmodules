@@ -7,3 +7,6 @@
 [submodule "lib/foundry-chainlink-toolkit"]
 	path = lib/foundry-chainlink-toolkit
 	url = https://github.com/smartcontractkit/foundry-chainlink-toolkit
+[submodule "lib/v3-periphery"]
+	path = lib/v3-periphery
+	url = https://github.com/uniswap/v3-periphery
