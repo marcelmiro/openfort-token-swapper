@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "search.exclude": { "**/out": true, "**/lib": true, "**/cache": true },
+
+  "solidity.formatter": "forge",
+  "solidity.compileUsingRemoteVersion": "v0.8.20",
+  "[solidity]": { "editor.defaultFormatter": "JuanBlanco.solidity" },
+  "solidity.defaultCompiler": "localNodeModule"
+}
